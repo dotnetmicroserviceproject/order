@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Order.Contracts",
+    "\\Order.Service",
+    "\\Order.Service\\Consumers"
+  ],
+  "SelectedNode": "\\Order.Service\\Consumers\\GrantItemConsumer.cs",
+  "PreviewInSolutionExplorer": false
+}
