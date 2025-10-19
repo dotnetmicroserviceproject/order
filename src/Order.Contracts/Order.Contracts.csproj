@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>Order.Contracts</PackageId> 
+    <Version>1.0.2</Version>
+    <PackageDescription>Contracts library for the Order microservice</PackageDescription>
+    <Authors>Odedame Bright</Authors>
+    <Company>.NET Microservices</Company>
+    <RepositoryUrl>https://github.com/dotnetmicroserviceproject/order</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
