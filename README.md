@@ -21,7 +21,6 @@ docker build --secret id=GH_OWNER --secret id=GH_PAT -t order.service:latest .
 ```
 ## Run the docker image 
 ```powershell 
-$adminPass="[PASSWORD HERE]" 
 
-docker run -it --rm -p 5175:5175 --name order-service --network infra_backend -e MongoDbSettings__Host=mongo -e RabbitMQSettings__Host=rabbitmq -e IdentitySettings__AdminUserPassword=$adminPass order.service:latest
+docker run -it --rm -p 5175:5175 --name order-service --network infra_backend -e MongoDbSettings__Host=mongo -e RabbitMQSettings__Host=rabbitmq order.service:latest
 ``` 
