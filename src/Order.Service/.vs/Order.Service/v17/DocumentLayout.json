@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\contollers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:contollers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\features\\cartitems\\handlers\\deletefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:features\\cartitems\\handlers\\deletefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\order.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:order.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\contollers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:contollers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -96,10 +100,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\entities\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:entities\\useritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\features\\cartitems\\handlers\\deletefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|solutionrelative:features\\cartitems\\handlers\\deletefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F94567C-5853-482E-A83A-F4CCD9ECA384}|Order.Service.csproj|c:\\users\\pc\\c-sharpprojects\\microservice\\ecommerce\\order\\src\\order.service\\features\\cartitems\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -208,37 +208,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Contollers\\CartController.cs",
-              "RelativeDocumentMoniker": "Contollers\\CartController.cs",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Contollers\\CartController.cs",
-              "RelativeToolTip": "Contollers\\CartController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:41:13.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:50:16.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -251,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Order.Service.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Order.Service.csproj",
               "RelativeDocumentMoniker": "Order.Service.csproj",
@@ -264,7 +238,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "DeleteFromCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs*",
+              "RelativeToolTip": "Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:35:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T10:50:16.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -272,12 +272,23 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T14:21:16.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T14:21:16.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Contollers\\CartController.cs",
+              "RelativeDocumentMoniker": "Contollers\\CartController.cs",
+              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Contollers\\CartController.cs",
+              "RelativeToolTip": "Contollers\\CartController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T13:41:13.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Contracts.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Contracts\\Contracts.cs",
               "RelativeDocumentMoniker": "..\\Order.Contracts\\Contracts.cs",
@@ -285,12 +296,11 @@
               "RelativeToolTip": "..\\Order.Contracts\\Contracts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T12:28:49.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T12:28:49.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OrderDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Dtos\\OrderDetailDto.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Dtos\\OrderDetailDto.cs",
@@ -298,12 +308,11 @@
               "RelativeToolTip": "Features\\Orders\\Dtos\\OrderDetailDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T11:19:18.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T11:19:18.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -315,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GetOrderByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Handlers\\GetOrderByIdHandler.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Handlers\\GetOrderByIdHandler.cs",
@@ -327,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderHeaderResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Dtos\\OrderHeaderResponseDto.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Dtos\\OrderHeaderResponseDto.cs",
@@ -339,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GetOrderByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Queries\\GetOrderByIdQuery.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Queries\\GetOrderByIdQuery.cs",
@@ -351,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CreateOrderCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Handlers\\CreateOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Handlers\\CreateOrderCommandHandler.cs",
@@ -363,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OrderSuccessAndErrorResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Dtos\\OrderSuccessAndErrorResponseDto.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Dtos\\OrderSuccessAndErrorResponseDto.cs",
@@ -375,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Contollers\\OrderController.cs",
               "RelativeDocumentMoniker": "Contollers\\OrderController.cs",
@@ -387,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "OrderHeaderCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Dtos\\OrderHeaderCreateDto.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Dtos\\OrderHeaderCreateDto.cs",
@@ -399,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CartResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Dtos\\CartResponseDto.cs",
               "RelativeDocumentMoniker": "Features\\CartItems\\Dtos\\CartResponseDto.cs",
@@ -411,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CartErrorAndSuccessResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Dtos\\CartErrorAndSuccessResponseDto.cs",
               "RelativeDocumentMoniker": "Features\\CartItems\\Dtos\\CartErrorAndSuccessResponseDto.cs",
@@ -423,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AddToCartCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Handlers\\AddToCartCommandHandler.cs",
               "RelativeDocumentMoniker": "Features\\CartItems\\Handlers\\AddToCartCommandHandler.cs",
@@ -435,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "OrderProfile.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Mappers\\OrderProfile.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Mappers\\OrderProfile.cs",
@@ -447,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OrderDetails.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Entities\\OrderDetails.cs",
               "RelativeDocumentMoniker": "Entities\\OrderDetails.cs",
@@ -459,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CreateOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Commands\\CreateOrderCommand.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Commands\\CreateOrderCommand.cs",
@@ -471,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UpdateOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Commands\\UpdateOrderCommand.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Commands\\UpdateOrderCommand.cs",
@@ -483,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\Orders\\Dtos\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Features\\Orders\\Dtos\\OrderStatus.cs",
@@ -495,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UserItem.cs",
               "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Entities\\UserItem.cs",
               "RelativeDocumentMoniker": "Entities\\UserItem.cs",
@@ -504,18 +513,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T12:34:10.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DeleteFromCartCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
-              "RelativeDocumentMoniker": "Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\c-SharpProjects\\MicroService\\Ecommerce\\Order\\src\\Order.Service\\Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
-              "RelativeToolTip": "Features\\CartItems\\Handlers\\DeleteFromCartCommandHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvywAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:35:15.519Z"
             },
             {
               "$type": "Document",

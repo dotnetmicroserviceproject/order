@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using common.MongoDB.Interface;
-using common.Services.Interfaces;
 using MassTransit;
 using MediatR;
 using Order.Contracts;

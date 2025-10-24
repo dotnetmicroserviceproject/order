@@ -27,9 +27,11 @@ builder.Services.AddMongo()
     .AddMongoRepository<OrderItem>("OrderItem")
     .AddMongoRepository<ProductItem>("ProductItem")
     .AddMongoRepository<UserItem>("UserItem");
-builder.Services.AddMassTransitWithRabiitMq(retryConfigurator =>
+
+    // ? Register MassTransit with RabbitMQ
+builder.Services.AddMassTransitWithMessageBroker(builder.Configuration, retryConfigurator =>
 {
-    retryConfigurator.Interval(3,TimeSpan.FromSeconds(5));
+    retryConfigurator.Interval(3, TimeSpan.FromSeconds(5));
     retryConfigurator.Ignore(typeof(UnknownItemException));
 })
 .AddJwtBearerAuthentication();
@@ -77,12 +79,9 @@ app.UseHttpsRedirection();
 app.UseCors("AllowAllOrigins");
 app.UseAuthentication();
 app.UseAuthorization();
+app.MapControllers();
+app.MapPlayEconomyHealthChecks();
 
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-    endpoints.MapPlayEconomyHealthChecks();
-});
 
 app.Run();
 

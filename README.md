@@ -12,3 +12,16 @@ dotnet pack src\Order.Contracts\ --configuration Release -p:PackageVersion=$vers
 dotnet nuget push ..\packages\Order.Contracts.$version.nupkg --api-key $gh_pat --source "github"
 
 ```
+## Build the docker image 
+```powershell 
+$env:GH_OWNER="dotnetmicroserviceproject" 
+$env:GH_PAT="[PAT HERE]" 
+
+docker build --secret id=GH_OWNER --secret id=GH_PAT -t order.service:latest . 
+```
+## Run the docker image 
+```powershell 
+$adminPass="[PASSWORD HERE]" 
+
+docker run -it --rm -p 5175:5175 --name order-service --network infra_backend -e MongoDbSettings__Host=mongo -e RabbitMQSettings__Host=rabbitmq -e IdentitySettings__AdminUserPassword=$adminPass order.service:latest
+``` 
